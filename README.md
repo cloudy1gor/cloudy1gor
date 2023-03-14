@@ -2,13 +2,11 @@
 <h3>I like PHP/JS programming on GNU/Linux. Sometimes i do some web development as well.</h3>
 
 <!-- ![Screenshot](screenshot.png) -->
-<div style="display:flex;flex-wrap:wrap;">
   <p style="display:flex;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cloudy1gor&show_icons=true&locale=en&layout=compact" alt="cloudy1gor" />
 
   &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cloudy1gor&show_icons=true&locale=en" alt="cloudy1gor" />
   </p>
-</div >
 Ukraine, Kharkiv
 
 ## Portfolio
@@ -52,7 +50,7 @@ Ukraine, Kharkiv
 -	Basic **SEO** optimization.
 -	Working with front-end design tools such as **PSD**, **Figma**, **Adobe XD**, **Zeplin**.
 
-<a href="https://www.w3.org/html/" target="_blank" style="display:flex;align-items:center;justify-content:center" rel="noreferrer">
+<a href="https://drive.google.com/file/d/1mGAsNkorLiqohqHhG5jcLPohql1b-Nxv/view" target="_blank" style="display:flex;align-items:center;justify-content:center" rel="noreferrer">
 <h2 align="left" style="margin-right:0.2em">CV</h2> 
 <img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg" width="30"/>
 </a>
