@@ -6,7 +6,6 @@
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cloudy1gor&show_icons=true&locale=en&layout=compact" alt="cloudy1gor" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cloudy1gor&show_icons=true&locale=en" alt="cloudy1gor" />
   </p>
-Ukraine, Kharkiv
 
 ## Portfolio
 ### https://cloudy1gor.github.io./
@@ -27,7 +26,6 @@ Ukraine, Kharkiv
 
 
 ## Contacts
-
 <p align="left">
 <a href="https://t.me/cloudy1gor" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="seweryn pajor" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/ihor-savelyev-68a7681ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savelyev" height="30" width="40" /></a>
