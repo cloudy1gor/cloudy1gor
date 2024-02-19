@@ -34,10 +34,10 @@ I like **PHP/JS** programming on **GNU/Linux**. Sometimes i do some web developm
 
 <div style="display:flex;align-items:center;justify-content: center;">
   
-  <a style="display:flex;align-items:center;justify-content: center;margin-right:10px;" href="https://www.codewars.com/users/cloudy1gor" target="blank"><img align="center" src="https://www.svgrepo.com/show/525044/star-circle.svg" alt="cloudy1gor" height="34" width="34" /> cloudy1gor.github.io</a>
+  <a style="display:flex;flex-wrap:wrap;flex-direction:row;align-items:center;justify-content: center;margin-right:10px;" href="https://www.codewars.com/users/cloudy1gor" target="blank"><img align="center" src="https://www.svgrepo.com/show/525044/star-circle.svg" alt="cloudy1gor" height="34" width="34" /> cloudy1gor.github.io</a>
 
-  <a style="display:flex;align-items:center;justify-content: center;margin-right:10px;" href="https://www.linkedin.com/in/ihor-savelyev-68a7681ba" target="blank" style="margin-right:10px;"><img align="center" src="https://www.svgrepo.com/show/360538/linkedin-circle.svg" alt="savelyev" height="38" width="38" /> Linkedin</a>
+  <a style="display:flex;flex-wrap:wrap;flex-direction:row;align-items:center;justify-content: center;margin-right:10px;" href="https://www.linkedin.com/in/ihor-savelyev-68a7681ba" target="blank" style="margin-right:10px;"><img align="center" src="https://www.svgrepo.com/show/360538/linkedin-circle.svg" alt="savelyev" height="38" width="38" /> Linkedin</a>
 
-  <a style="display:flex;align-items:center;justify-content: center;margin-right:10px;" href="https://www.codewars.com/users/cloudy1gor" target="blank"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="cloudy1gor" height="30" width="30" /> CodeWars</a>
+  <a style="display:flex;flex-wrap:wrap;flex-direction:row;align-items:center;justify-content: center;margin-right:10px;" href="https://www.codewars.com/users/cloudy1gor" target="blank"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="cloudy1gor" height="30" width="30" /> CodeWars</a>
 
 </div>
