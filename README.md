@@ -32,7 +32,7 @@ I like **PHP/JS** programming on **GNU/Linux**. Sometimes i do some web developm
   < Portfolio / Contacts / Сhallenges />
  </h2>
 
-<div style="display:flex;align-items:center;justify-content: center;">
+<div style="display:flex;flex-wrap:wrap;align-items:center;justify-content: center;">
   
   <a style="display:flex;flex-wrap:wrap;flex-direction:row;align-items:center;justify-content: center;margin-right:10px;" href="https://www.codewars.com/users/cloudy1gor" target="blank"><img align="center" src="https://www.svgrepo.com/show/525044/star-circle.svg" alt="cloudy1gor" height="34" width="34" /> cloudy1gor.github.io</a>
 
