@@ -2,15 +2,11 @@
 
 I like **PHP/JS** programming on **GNU/Linux**. Sometimes i do some web development as well.
 
----
-
 <!-- ![Screenshot](screenshot.png) -->
   <div align="center">
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cloudy1gor&show_icons=true&locale=en&layout=compact" alt="cloudy1gor" />
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=cloudy1gor&show_icons=true&locale=en" alt="cloudy1gor" />
   </div>
-
----
 
 <h2 align="center" >
   <span style="color:#006400;"></span>
@@ -31,8 +27,6 @@ I like **PHP/JS** programming on **GNU/Linux**. Sometimes i do some web developm
   "   width="80" height="40"/> 
   </a>
 </div>
-
----
 
 <h2 align="center" >
   < Portfolio / Contacts / Сhallenges />
