@@ -14,20 +14,20 @@ I like **PHP/JS** programming on **GNU/Linux**. Sometimes i do some web developm
  </h2>
 
 <div style="display:flex;align-items:center;justify-content: center;">
-  <a href="https://www.php.net" target="_blank" style="margin-right:6px;" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452088/php.svg"  width="34" height="34"/>
-  <a href="https://symfony.com/" target="_blank" style="margin-right:6px;" rel="noreferrer"> <img src="https://www.svgrepo.com/show/508947/symfony.svg"  width="30" height="30"/>
-  <a href="https://codex.wordpress.org/Main_Page" target="_blank" style="margin-right:6px;" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"   width="30" height="30"/>
-  <a href="https://www.mysql.com/" target="_blank" style="margin-right:6px;" rel="noreferrer"> <img src="https://www.svgrepo.com/show/221326/mysql.svg" alt="mysql" width="30" height="30"/> </a>
-  <a href="https://redis.io/" target="_blank" style="margin-right:6px;" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354272/redis.svg" alt="mysql" width="32" height="32"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right:6px;" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/></a>
-  <a href="https://webpack.js.org/" target="_blank" style="margin-right:6px;" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354552/webpack.svg" width="38" height="38"/></a>
-  <a href="https://www.docker.com/" target="_blank" style="margin-right:6px;" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452192/docker.svg" width="36" height="36"/> </a>
-  <a href="https://git-scm.com/" target="_blank" style="margin-right:6px;" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30"/> </a>
-  <a href="https://www.linux.org/" target="_blank" style="margin-right:6px;" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" style="margin-right:6px;" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"   width="30" height="30"/> 
-  <a href="https://www.sass-lang.com/" target="_blank" style="margin-right:6px;" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"   width="30" height="30"/> 
-  <a href="https://pugjs.org/language/mixins.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg" width="80" height="40"/> 
-  </a>
+<a href="https://www.php.net" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://www.svgrepo.com/show/452088/php.svg"  width="34" height="34"/>
+<a href="https://symfony.com/" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://www.svgrepo.com/show/508947/symfony.svg"  width="30" height="30"/>
+<a href="https://codex.wordpress.org/Main_Page" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"   width="30" height="30"/>
+<a href="https://www.mysql.com/" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://www.svgrepo.com/show/221326/mysql.svg" alt="mysql" width="30" height="30"/> </a>
+<a href="https://redis.io/" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://www.svgrepo.com/show/354272/redis.svg" alt="mysql" width="32" height="32"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right:6px;" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/></a>
+<a href="https://webpack.js.org/" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://www.svgrepo.com/show/354552/webpack.svg" width="38" height="38"/></a>
+<a href="https://www.docker.com/" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://www.svgrepo.com/show/452192/docker.svg" width="36" height="36"/> </a>
+<a href="https://git-scm.com/" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30"/> </a>
+<a href="https://www.linux.org/" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"   width="30" height="30"/> 
+<a href="https://www.sass-lang.com/" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"   width="30" height="30"/> 
+<a href="https://pugjs.org/language/mixins.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg" width="80" height="40"/> 
+</a>
 </div>
 
 <h2 align="center" >
