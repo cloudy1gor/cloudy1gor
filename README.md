@@ -13,7 +13,7 @@ I like **PHP/JS** programming on **GNU/Linux**. Sometimes i do some web developm
   < Skills />
  </h2>
 
-<h5 align="center" style="display:flex;flex-wrap:wrap;align-items:center;">
+<h5 align="center" style="background:#ececec;display:flex;flex-wrap:wrap;align-items:center;">
 <a href="https://www.php.net" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://www.svgrepo.com/show/452088/php.svg"  width="34" height="34"/>
 <a href="https://symfony.com/" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://www.svgrepo.com/show/508947/symfony.svg"  width="30" height="34"/>
 <a href="https://codex.wordpress.org/Main_Page" target="_blank" style="margin-right:6px;" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"   width="30" height="30"/>
@@ -34,7 +34,7 @@ I like **PHP/JS** programming on **GNU/Linux**. Sometimes i do some web developm
   < Portfolio & Contacts & Сhallenges />
  </h2>
 
-<h5 align="center" style="display:flex;flex-wrap:wrap;align-items:center;">
+<h5 align="center" style="background:#ececec;display:flex;flex-wrap:wrap;align-items:center;">
 <a href="https://www.codewars.com/users/cloudy1gor" target="blank"><img align="center" src="https://www.svgrepo.com/show/525044/star-circle.svg" alt="cloudy1gor" height="24" width="24" /> cloudy1gor.github.io</a><span style="margin-left:14px;margin-right:14px;"> | </span>
 <a href="https://www.linkedin.com/in/ihor-savelyev-68a7681ba" target="blank"><img align="center" src="https://www.svgrepo.com/show/360538/linkedin-circle.svg" alt="savelyev" height="26" width="26" /> Linkedin</a><span style="margin-left:14px;margin-right:14px;"> | </span>
 <a href="https://www.codewars.com/users/cloudy1gor" target="blank"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="cloudy1gor" height="20" width="20" /> CodeWars</a>
