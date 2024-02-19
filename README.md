@@ -31,7 +31,7 @@ I like **PHP/JS** programming on **GNU/Linux**. Sometimes i do some web developm
 </h5>
 
 <h2 align="center" >
-  < Portfolio / Contacts / Сhallenges />
+  < Portfolio ● Contacts ● Сhallenges />
  </h2>
 
 <h5 align="center" style="display:flex;flex-wrap:wrap;align-items:center;">
