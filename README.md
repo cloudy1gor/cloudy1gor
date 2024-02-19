@@ -35,7 +35,7 @@ I like **PHP/JS** programming on **GNU/Linux**. Sometimes i do some web developm
  </h2>
 
 <h5 align="center" style="display:flex;flex-wrap:wrap;align-items:center;">
-<a style="display:flex;align-items:center;margin-right:14px;" href="https://www.codewars.com/users/cloudy1gor" target="blank"><img align="center" src="https://www.svgrepo.com/show/525044/star-circle.svg" alt="cloudy1gor" height="24" width="24" /> cloudy1gor.github.io</a><span style="margin-left:14px;margin-right:14px;"> | </span>
-<a style="display:flex;align-items:center;margin-right:14px;" href="https://www.linkedin.com/in/ihor-savelyev-68a7681ba" target="blank"><img align="center" src="https://www.svgrepo.com/show/360538/linkedin-circle.svg" alt="savelyev" height="26" width="26" /> Linkedin</a><span style="margin-left:14px;margin-right:14px;"> | </span>
-<a style="display:flex;align-items:center;margin-right:14px;" href="https://www.codewars.com/users/cloudy1gor" target="blank"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="cloudy1gor" height="20" width="20" /> CodeWars</a>
+<a href="https://www.codewars.com/users/cloudy1gor" target="blank"><img align="center" src="https://www.svgrepo.com/show/525044/star-circle.svg" alt="cloudy1gor" height="24" width="24" /> cloudy1gor.github.io</a><span style="margin-left:14px;margin-right:14px;"> | </span>
+<a href="https://www.linkedin.com/in/ihor-savelyev-68a7681ba" target="blank"><img align="center" src="https://www.svgrepo.com/show/360538/linkedin-circle.svg" alt="savelyev" height="26" width="26" /> Linkedin</a><span style="margin-left:14px;margin-right:14px;"> | </span>
+<a href="https://www.codewars.com/users/cloudy1gor" target="blank"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="cloudy1gor" height="20" width="20" /> CodeWars</a>
 </h5>
